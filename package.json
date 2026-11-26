@@ -1,0 +1,1 @@
+{"description":"One funny line for the door of a haunted server room: a ghost has moved into rack 4, and a reboot would be an eviction notice. The program writes the sign to /output/entry.txt.","license":"MIT","main":"main.ts","name":"haunted-server-room-sign","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
